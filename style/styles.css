@@ -68,8 +68,6 @@ h1 {
 }
 
 #botao:focus {
+    filter: hue-rotate(90deg);
     outline: none;
-    box-shadow: 
-        0 0 0 4px rgb(56, 218, 255),
-        0 4px rgb(167, 144, 12);
 }
